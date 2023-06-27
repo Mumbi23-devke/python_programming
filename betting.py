@@ -15,7 +15,7 @@ elif number == 4:
 elif number == 5:
     print("You win a Samsung galaxy!")
 else:
-    print("Invalid number. Try again")
+    print("Invalid number! Try again")
 
 
 
