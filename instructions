@@ -1,0 +1,12 @@
+# Implement a logic to calculate the BMI of any user.
+# Henceforth, display the results as either:
+# 1. Underweight 2. Normal weight 3. Overweight
+# 4. Obese.
+# Use the formula BMI = weight in Kgs divide by height
+# in metres squared.
+
+# Use the scale:
+# 18 and below ------ Underweight
+# 18.1 ---- 29 ------ Normal weight
+# 29.1 ---- 34 ------ Overweight
+# 34.1 and above  ------ Obese
