@@ -12,3 +12,4 @@ print(location2.location, location2.owner, location2.typee, location2.population
 print(location3.location, location3.owner, location3.typee, location3.population, location3.color)
 print(location4.location, location4.owner, location4.typee, location4.population, location4.color)
 print(location5.location, location5.owner, location5.typee, location5.population, location5.color)
+print(location6.location, location6.owner, location6.typee, location6.population, location6.color)
