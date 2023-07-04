@@ -4,6 +4,7 @@ owner1 = Car("Mazda", "CX-5", "Mumbi", "Red")
 owner2 = Car("Mazda", "CX-5", "Ann", "Black")
 owner3 = Car("Mazda", "CX-5", "Jerry", "White")
 owner4 = Car("Mazda", "CX-5", "Kibe", "Grey")
+owner5 = Car("")
 
 print(owner1.model, owner1.color, owner1.make, owner1.owner)
 print(owner2.model, owner2.color, owner2.make, owner2.owner)
