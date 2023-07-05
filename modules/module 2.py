@@ -1,5 +1,5 @@
 
-from module1 import  *
+from module1 import *
 
 print(add2nums(345, 675))
 
