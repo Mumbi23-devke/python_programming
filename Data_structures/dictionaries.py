@@ -1,11 +1,6 @@
-#has key and value pairs
-#defined by curly brackets
-#has order
-#data can be modified
+# has key and value pairs
+# defined by curly brackets
+# has order
+# data can be modified
 
-friends_ages = {"jane": 34, "penny": 29, 'dan': 20}
-
-
-
-
-
+friends_ages = {"Jane": 34, "Penny": 29, 'Dan': 20}
