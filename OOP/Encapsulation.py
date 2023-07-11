@@ -8,6 +8,7 @@ class Base:
 
 class Derived(Base):
     def __init__(self):
+        super().__init__()
         print(self.a)  # accessible
         print(self.b)
         print(self.c)
@@ -18,6 +19,7 @@ class Derived(Base):
 
 obj1 = Base()
 print(obj1.a)
+# print(obj1.b) You are not authorised to view this information
 print(obj1.c)
 print(obj1.d)
-# print(obj1.b)
+
